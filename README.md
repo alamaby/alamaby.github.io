@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/alamaby/alamaby.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
